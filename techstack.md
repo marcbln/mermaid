@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [marcbln/mermaid](https://github.com/marcbln/mermaid)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|77<br/>Tools used|12/11/23 <br/>Report generated|
+|79<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -292,9 +292,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (52)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (52)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -333,9 +333,11 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|v4.18.2|06/28/23|Yokozuna59 |MIT|N/A|
 |[fast-glob](https://www.npmjs.com/fast-glob)|v3.2.12|02/24/23|Sidharth Vinod |MIT|N/A|
 |[globby](https://www.npmjs.com/globby)|v13.1.4|04/23/23|Sidharth Vinod |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|04/23/23|Sidharth Vinod |MIT|N/A|
 |[jison](https://www.npmjs.com/jison)|v0.4.18|12/04/23|Alois Klink |MIT|[CVE-2020-8178](https://github.com/advisories/GHSA-vr9x-mm65-2438) (High)|
 |[js-base64](https://www.npmjs.com/js-base64)|v3.7.5|04/23/23|Sidharth Vinod |BSD-3-Clause|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|11/17/22|Mason Malone |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.2.1|12/04/23|Alois Klink |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|03/17/23|Remco Haszing |MIT|N/A|
 |[micromatch](https://www.npmjs.com/micromatch)|v4.0.5|12/04/23|Alois Klink |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v15.1.0|11/02/14|knsv |ISC|N/A|
